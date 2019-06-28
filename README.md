@@ -1,5 +1,7 @@
 # Azure Machine Learning Package for Computer Vision scripts for retinal OCT image classification
 
+> **NOTE** This content is no longer maintained. Visit the [Azure Machine Learning Notebook](https://github.com/Azure/MachineLearningNotebooks) project for sample Jupyter notebooks for ML and deep learning with Azure Machine Learning.
+
 My work is inspired by a paper published in Cell this year: Kermany et al., 2018 Cell “Identifying Medical Diagnosis and Treatable Diseases by Image-Based Deep learning” . 
 
 The OCT images used in this study can be downloaded from https://data.mendeley.com/datasets/rscbjbr9sj/2
